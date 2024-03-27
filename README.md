@@ -1,3 +1,3 @@
 # ASDlabs
 
-# this repozitory is for my asd labs :3
+this repositori is for my asd labs :3
